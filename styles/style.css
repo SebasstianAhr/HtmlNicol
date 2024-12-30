@@ -11,6 +11,10 @@
     
 }
 
+.subtitle{
+    margin-bottom: 15px;
+}
+
 body{
     width: 100%;
 }
@@ -56,8 +60,4 @@ body{
     li{
         margin: 0.5rem 0;
     }
-}
-
-.subtitle{
-    margin-bottom: 15px;
 }
